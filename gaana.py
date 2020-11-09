@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 from slugify import slugify
 
-TOKEN = '#########:###################################'
+TOKEN = '1498024006:AAEd5NWvoK9GxZF0z4aHHggQa_zaWNF9T5A'
 
 WelcomeGreeting = 'Welcome! Just send me the name of the song that you want to download.'
 
